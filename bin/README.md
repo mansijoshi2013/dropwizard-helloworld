@@ -26,6 +26,7 @@ stop.sh
 --get the current running java process PID from /tmp/app.pid
 --kill -9 {PID}
 
+
 build.sh
 --git pull
 --mvn clean package
